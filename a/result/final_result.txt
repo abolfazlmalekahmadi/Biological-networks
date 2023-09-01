@@ -1,0 +1,25 @@
+If we examine the central nodes identified in each network, the following are the Cox regression coefficients for those genes from the survival analysis:
+
+
+first Network centralities:
+
+1.CDK1: 0.00274
+
+2.CLTB: 0.2139
+
+3.FOXM1: 0.11
+
+4.EYA1: 0.2102
+
+
+
+
+second Network centralities:
+
+1.RPS3A: -0.129
+
+2.TP53: -0.2007
+
+3.RPL5: -0.1552
+
+4.CD74: 0.1117
